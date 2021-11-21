@@ -34,16 +34,6 @@ MVC is very commonly used for designing how web applications function.
 
 *([Source](https://blog.yechiel.me/welcome-to-the-mvc-restaurant-fb1709047914))*
 
-### Sketch It Out
-
-Let's bring that down to reality. We'll recreate the diagram above for an actual app:
-
-- A "to-do" app that lists tasks and allows you to check them off when complete.
-- An address book app that returns a person's name, email address, and phone number.
-- A means of checking your account balance on your bank's website.
-- A place to shop for and purchase books online.
-
-With a partner, take a few minutes to sketch out what these apps might look like on the board.
 
 ### Turn and Talk
 
